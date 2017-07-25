@@ -70,7 +70,7 @@
 		{"title": "Better Criticals", "description": "+50% damage with critical hits.", "requirements": "LVL16, PE6, LK6"},
 		{"title": "Chem Resistant", "description": "Half as likely to get addicted.", "requirements": "LVL16, Medicine60"},
 		{"title": "Meltdown", "description": "Foes killed by your Energy Weapons emit a corona of harmful energy.", "requirements": "LVL16, EnergyWeapons90"},
-		{"title": "Tag!", "description": "Fourth "tag" skill: +15 points to that skill.", "requirements": "LVL16"},
+		{"title": "Tag!", "description": "Fourth \"tag\" skill: +15 points to that skill.", "requirements": "LVL16"},
 		{"title": "Weapon Handling", "description": "Weapon Strength requirements are now 2 points lower than normal for you.", "requirements": "LVL16, ST < 10"},
 		{"title": "Computer Whiz", "description": "Can make one extra attempt to hack a locked-down terminal.", "requirements": "LVL18, IN7, Science70"},
 		{"title": "Concentrated Fire", "description": "+5% accuracy in V.A.T.S. with every attack on a given body part queued.", "requirements": "LVL18, EnergyWeapons60, Guns60"},
